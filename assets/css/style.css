@@ -1,0 +1,39 @@
+* {
+    color: orange;
+    padding: 0px 65px;
+    text-align: left;
+    margin: auto;
+    background-color: black;
+    font-weight: bold;
+}
+
+header {
+    padding-bottom: 70px;
+    padding-right: 50px;
+    margin-left: -100px;
+
+}
+
+#col1 {
+    border: 1px dashed orange;
+    width: 100px;
+    height: 400px;
+    border: 1px dashed orange;
+    margin-right: 10px;
+    float: left;
+}
+
+#col2 {
+    border: 1px dashed orange;
+    width: 100px;
+    height: 400px;
+    float: left;
+}
+
+#current-word {
+    text-align: left;
+}
+
+#letter-guesses {
+    text-align: left;
+}
